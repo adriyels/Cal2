@@ -15,7 +15,10 @@ public class Cal2 {
      * @param args the command line arguments
      */
     public int Add(String strings2){
-        return 0;
+        
+        int d1 = Integer.pass(s1);
+        int d2 = Integer.pass(s2);
+        return d1 + d2;
     }
     public static void main(String[] args) {
         // TODO code application logic here
